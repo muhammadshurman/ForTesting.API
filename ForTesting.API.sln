@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForTesting.API", "ForTestin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForTesting.Infra", "ForTesting.Infra\ForTesting.Infra.csproj", "{FE4D87E2-C271-4DE8-8C0A-FCCEDE645171}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forTesting.Core", "forTesting.Core\forTesting.Core.csproj", "{AF01C858-09FE-41C7-AA5A-CEE3A1447433}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FE4D87E2-C271-4DE8-8C0A-FCCEDE645171}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE4D87E2-C271-4DE8-8C0A-FCCEDE645171}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE4D87E2-C271-4DE8-8C0A-FCCEDE645171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF01C858-09FE-41C7-AA5A-CEE3A1447433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF01C858-09FE-41C7-AA5A-CEE3A1447433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF01C858-09FE-41C7-AA5A-CEE3A1447433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF01C858-09FE-41C7-AA5A-CEE3A1447433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
